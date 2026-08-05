@@ -1,5 +1,5 @@
-# 🌐 Computer Networks Project 50
-## 📘 Overview
+#  Computer Networks Project 50
+##  Overview
 This repository contains the configuration details and steps for two networking tasks implemented using Cisco Packet Tracer. The tasks simulate real-world network setups, including a multi-level network topology with hubs, switches, and bridges, and a router-based inter-switch communication setup.
 
 These simulations are designed to help users understand:
